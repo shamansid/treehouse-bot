@@ -1,1 +1,8 @@
-
+{
+    "name": "Treehouse-bot",
+    "token": "Nzg1MDQ0NDY4MTA5Mjc5MjYz.X8yHog.OIJpOb2M0bxDcIl_foGvM-e1KIY",
+    "oID": "781206405280694302",
+    "prefix": ">",
+    "version": "1.0.3",
+    "log_channel": "mod-logs"
+}
